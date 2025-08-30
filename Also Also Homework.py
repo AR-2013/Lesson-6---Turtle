@@ -2,7 +2,7 @@ import turtle
 
 turtle.Screen().bgcolor("Purple")
 sc = turtle.Screen()
-sc.setup(400, 300)
+sc.setup(400, 500)
 turtle.title("Hexagon")
 
 board = turtle.Turtle()
